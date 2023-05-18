@@ -1,0 +1,50 @@
+{"intents": [
+{"tag": "insurance",
+ "responses": ["you picked insurance"]},
+ {"tag": "next_holiday",
+ "responses": ["you picked next_holiday"]},
+  {"tag": "repeat",
+ "responses": ["you picked repeat"]},
+   {"tag": "credit_limit_change",
+ "responses": ["you picked credit_limit_change"]},
+    {"tag": "book_hotel",
+ "responses": ["you picked book_hotel"]},
+    {"tag": "yes",
+ "responses": ["you picked yes"]},
+     {"tag": "damaged_card",
+ "responses": ["you picked damaged_card"]},
+      {"tag": "rewards_balance",
+ "responses": ["you picked rewards_balance"]},
+       {"tag": "time",
+ "responses": ["you picked time"]},
+        {"tag": "pto_balance",
+ "responses": ["you picked pto_balance"]},
+         {"tag": "interest_rate",
+ "responses": ["you picked interest_rate"]},
+          {"tag": "change_volume",
+ "responses": ["you picked change_volume"]},
+           {"tag": "taxes",
+ "responses": ["you picked taxes"]},
+            {"tag": "sync_device",
+ "responses": ["you picked sync_device"]},
+             {"tag": "traffic",
+ "responses": ["you picked traffic"]},
+              {"tag": "what_song",
+ "responses": ["you picked what_song"]},
+               {"tag": "shopping_list",
+ "responses": ["you picked shopping_list"]},
+                {"tag": "todo_list_update",
+ "responses": ["you picked todo_list_update"]},
+                 {"tag": "order_checks",
+ "responses": ["you picked order_checks"]},
+                  {"tag": "shopping_list_update",
+ "responses": ["you picked shopping_list_update"]}
+ 
+ ]}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
